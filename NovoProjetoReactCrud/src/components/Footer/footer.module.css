@@ -1,0 +1,24 @@
+Footer{
+position: fixed;
+bottom: 0;
+width: 100vw;
+text-align: center;
+padding: var(--padding-padrao);
+background-color: var(-cor-header);
+position: fixed;
+bottom: 0;
+width: 100vw;
+text-align: center;
+padding: var(--padding-padrao);
+background-color: var(-cor-header);
+position: fixed;
+padding: var(--padding-padrao);
+color: var(--cor-texto);
+box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+z-index: 1000;
+font-size: 1.2rem;
+font-weight: bold;
+font-family: 'Arial', sans-serif;
+}
+
+    
